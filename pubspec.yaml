@@ -1,0 +1,10 @@
+name: financas_pbl
+description: >
+  Núcleo de domínio (Dart puro) para o módulo de Controle Financeiro e
+  Orçamentário Pessoal — Avaliação Processual 1B (AP1B) da disciplina de
+  Computação Móvel, Faculdade Multivix.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'

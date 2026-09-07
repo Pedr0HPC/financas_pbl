@@ -1,0 +1,25 @@
+# Arquivos e diretórios gerados pelo pub/Dart SDK
+.dart_tool/
+.packages
+build/
+
+# Diretório convencional para saída de cobertura de testes
+coverage/
+
+# Arquivos de configuração de IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Artefatos de compilação
+*.exe
+*.dll
+*.so
+
+# Logs
+*.log
